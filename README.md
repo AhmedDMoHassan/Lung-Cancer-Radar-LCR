@@ -1,4 +1,4 @@
-# Lung-Cancer-Radar-LCR
+# Lung Cancer Radar LCR
 Lung Cancer Radar: Augmentation and categories in diagnosis of lung cancer
 this is the source code for my Research paper Lung Cancer Radar: Augmentation and categories in 
 diagnosis of lung cancer.
